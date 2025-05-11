@@ -20,7 +20,7 @@ Before running the chatbot, ensure that you have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/SachinduNethmina/qachatbot
+   git clone https://github.com/ScriptLabsAI/qachatbot
 
 2. Create a virtual environment (optional but recommended for isolating dependencies):
    ```bash
